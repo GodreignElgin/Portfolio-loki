@@ -1,0 +1,77 @@
+{
+    "models": [
+      {
+        "id": "gear-01",
+        "title": "Industrial Gear Assembly",
+        "filename": "gear-assembly.glb",
+        "thumbnail": "gear-thumb.jpg",
+        "description": "High-precision helical gear assembly with integrated bearing system",
+        "category": "mechanical",
+        "metadata": {
+          "dimensions": "250mm x 250mm x 100mm",
+          "material": "AISI 4140 Steel",
+          "dateCreated": "2024-04-25"
+        }
+      },
+      {
+        "id": "turbine-02",
+        "title": "Turbine Blade Design",
+        "filename": "turbine-blade.glb",
+        "thumbnail": "turbine-thumb.jpg",
+        "description": "Optimized turbine blade with advanced aerodynamic profile",
+        "category": "aerospace",
+        "metadata": {
+          "dimensions": "450mm x 120mm x 80mm",
+          "material": "Titanium Alloy",
+          "dateCreated": "2024-04-24"
+        }
+      },
+      {
+        "id": "pump-03",
+        "title": "Centrifugal Pump Housing",
+        "filename": "pump-housing.glb",
+        "thumbnail": "pump-thumb.jpg",
+        "description": "Industrial-grade pump housing with optimized flow channels",
+        "category": "industrial",
+        "metadata": {
+          "dimensions": "300mm x 300mm x 400mm",
+          "material": "Cast Iron",
+          "dateCreated": "2024-04-23"
+        }
+      },
+      {
+        "id": "medical-04",
+        "title": "Medical Device Enclosure",
+        "filename": "med-enclosure.glb",
+        "thumbnail": "medical-thumb.jpg",
+        "description": "Ergonomic enclosure for portable medical equipment",
+        "category": "medical",
+        "metadata": {
+          "dimensions": "200mm x 150mm x 75mm",
+          "material": "Medical-grade ABS",
+          "dateCreated": "2024-04-22"
+        }
+      },
+      {
+        "id": "auto-05",
+        "title": "Automotive Brake Caliper",
+        "filename": "brake-caliper.glb",
+        "thumbnail": "brake-thumb.jpg",
+        "description": "High-performance brake caliper with optimized cooling",
+        "category": "automotive",
+        "metadata": {
+          "dimensions": "280mm x 150mm x 100mm",
+          "material": "Aluminum Alloy",
+          "dateCreated": "2024-04-21"
+        }
+      }
+    ],
+    "categories": [
+      "mechanical",
+      "aerospace",
+      "industrial",
+      "medical",
+      "automotive"
+    ],
+    "lastUpdated": "2024-04-25T12:00:00Z"
+  }

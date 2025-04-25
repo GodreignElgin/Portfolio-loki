@@ -11,7 +11,10 @@ import {
 import { ref, uploadBytes, getDownloadURL, deleteObject } from 'firebase/storage';
 import { db, storage } from '../config/firebase';
 
-const CDN_URL = 'https://cdn.jsdelivr.net/gh/YOUR_USERNAME/YOUR_REPO@main';
+const USERNAME = "GodreignElgin";
+const REPO_NAME = "Portfolio-loki";
+
+const CDN_URL = `https://cdn.jsdelivr.net/gh/${USERNAME}/${REPO_NAME}@main`;
 const MODELS_PATH = '/models';
 
 export const modelService = {
